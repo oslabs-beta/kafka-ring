@@ -4,7 +4,7 @@ Apache Kafka cluster metrics visualizer
 
 ### Kurrent is an open-source project providing real-time Apache Kafka metrics data monitoring. Our tool is dedicated to providing developers an easy and intuitive means for monitoring the health and throughput of their Kafka cluster.
 
-## ![logo](/client/assets/kurrentBG2.png)
+## ![logo](/src/client/assets/kurrentBG2.png)
 
 # Features
 
@@ -18,6 +18,7 @@ Prometheus Integration: Kurrent provides a sample Prometheus yaml to make it eas
 
 <div align='center'>
 
+![TypeScript](https://img.shields.io/badge/typescript-%2300273f.svg?style=for-the-badge&logo=typescript&logoColor=%233178c6)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
